@@ -1,4 +1,4 @@
 # Messenger
 
 Made using Kotlin
-Messenger App made using Firebase Database.
+Messenger App with Firebase Database.
